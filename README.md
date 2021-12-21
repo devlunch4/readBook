@@ -1,7 +1,7 @@
 # readBook
 readBook. Learn&amp;Study
 최신 상단위치  
-update: 2021.11.22  
+update: 2021.12.22  
 
 
 
@@ -10,9 +10,9 @@ re [스프링퀵스타트] - 루비페이퍼 / SRPING QUICK START - RUBYPAPER
 
 
 2021.08  
-re [파이썬으로 웹 크롤러 만들기] - 한빛미디어  
-re [파이썬으로 웹 크롤러 만들기(2판) : 초간단 나만의 웹 크롤러로 원하는 데이터를 가져오는 방법] - 한빛미디어  
-re 원서명 Web Scraping with Python, 2nd Edition by Ryan Mitchell / Released April 2018 / Publisher(s): O'Reilly Media, Inc. /ISBN: 9781491985571  
+re [파이썬으로 웹 크롤러 만들기] - 한빛미디어 END 202112  
+re [파이썬으로 웹 크롤러 만들기(2판) : 초간단 나만의 웹 크롤러로 원하는 데이터를 가져오는 방법] - 한빛미디어 END 202112  
+re 원서명 Web Scraping with Python, 2nd Edition by Ryan Mitchell / Released April 2018 / Publisher(s): O'Reilly Media, Inc. /ISBN: 9781491985571  END 202112  
 
 
 2021.06  
