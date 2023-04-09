@@ -33,7 +33,7 @@ https://github.com/devlunch4/BOOK_WebScrapingWithPython_OREILLY
 
 2021.05  
 003.[파이썬으로 웹 크롤러 만들기] - 한빛미디어  #python  
-https://github.com/devlunch4/BOOK_WebScrapingWithPython_OREILLY 
+https://github.com/devlunch4/BOOK_WebScrapingWithPython_OREILLY     
 002. [Clean Code 클린 코드] - 인사이트(insight)   
 
 
