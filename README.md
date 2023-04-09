@@ -5,8 +5,8 @@ update: 2022.03.31
 
 2022.02  
 007.코딩만 따라해도 웹페이지가 만들어지는 HTML+CSS+JAVASCRIPT - 생능북스 - 반벙현 #HTML #CSS #JAVASCRIPT  
-https://github.com/devlunch4/book_followCodingHtmlCssJs 
-https://github.com/devlunch4/book_follow_first_jekyll 
+https://github.com/devlunch4/book_followCodingHtmlCssJs   
+https://github.com/devlunch4/book_follow_first_jekyll   
 https://github.com/devlunch4/book_followCodingHtmlCssJs_INSTAGRAM 
 
 2021.12  
