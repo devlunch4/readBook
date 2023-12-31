@@ -2,8 +2,8 @@
 readBook. Learn and Study
 update: 2022.03.31
 
-2023. 11  
-008. 스프링 부트 3 백엔드 개발자 되기 - 자바편: JPA + OAuth2 + JWT + AWS  
+2023.11  
+008.스프링 부트 3 백엔드 개발자 되기 - 자바편: JPA + OAuth2 + JWT + AWS  
 https://github.com/devlunch4/book-springboot-developer  
 
 2022.02  
