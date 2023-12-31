@@ -2,6 +2,10 @@
 readBook. Learn and Study
 update: 2022.03.31
 
+2023. 11
+008. 스프링 부트 3 백엔드 개발자 되기 - 자바편: JPA + OAuth2 + JWT + AWS
+https://github.com/devlunch4/book-springboot-developer
+
 
 2022.02  
 007.코딩만 따라해도 웹페이지가 만들어지는 HTML+CSS+JAVASCRIPT - 생능북스 - 반벙현 #HTML #CSS #JAVASCRIPT  
