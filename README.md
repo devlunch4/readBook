@@ -1,6 +1,6 @@
-# readBook
-readBook. Learn and Study
-update: 2023.12.31
+# readBook  
+readBook. Learn and Study  
+update: 2023.12.31  
 
 2023.11  
 008.스프링 부트 3 백엔드 개발자 되기 - 자바편: JPA + OAuth2 + JWT + AWS  
